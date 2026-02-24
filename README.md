@@ -49,3 +49,43 @@ Netflix-Clone/
 │ └── icons/
 └── README.md
 ```
+
+---
+
+## 🎯 Learning Objectives
+
+This project helped me:
+
+- Improve frontend development skills  
+- Practice CSS positioning & flexbox/grid  
+- Understand responsive design  
+- Clone real-world UI layouts  
+
+---
+
+## 🔮 Future Improvements
+
+- Add JavaScript interactivity  
+- Add carousel/slider functionality  
+- Add login & signup page  
+- Connect to a movie API  
+- Improve animations and transitions  
+
+---
+
+## ⚖️ Disclaimer
+
+This project is created for educational purposes only.  
+All rights and design credits belong to Netflix.  
+This project is not affiliated with or endorsed by Netflix.
+
+---
+
+## 👨‍💻 Author
+
+**Your Name**  
+GitHub: https://github.com/unmesh-patil-mh
+
+---
+
+⭐ If you like this project, consider giving it a star!
