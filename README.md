@@ -24,10 +24,7 @@ It focuses on layout structure, responsive design, and clean UI styling.
 ## 🛠️ Technologies Used
 
 - HTML5  
-- CSS3  
-- (Add below if used)
-  - Tailwind CSS  
-  - JavaScript  
+- CSS3   
 
 ---
 
@@ -42,4 +39,13 @@ It focuses on layout structure, responsive design, and clean UI styling.
 ---
 
 ## 📂 Project Structure
-
+```
+Netflix-Clone/
+│
+├── index.html
+├── style.css
+├── assets/
+│ ├── images/
+│ └── icons/
+└── README.md
+```
