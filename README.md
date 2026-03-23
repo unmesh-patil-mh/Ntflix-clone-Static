@@ -83,8 +83,8 @@ This project is not affiliated with or endorsed by Netflix.
 
 ## 👨‍💻 Author
 
-**Your Name**  
-GitHub: https://github.com/unmesh-patil-mh
+#Unmesh Patil  
+
 
 ---
 
